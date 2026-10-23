@@ -416,6 +416,10 @@ textarea:focus-visible {
     background: #e0f6ec;
 }
 
+.visual-four {
+    background: #e5f3ff;
+}
+
 .project-info {
     padding: 22px;
 }
